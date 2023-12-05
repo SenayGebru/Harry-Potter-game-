@@ -17,3 +17,11 @@ How to Play:
 1. Compile the Java files
 2. Run the compiled class
 3. Follow the on-screen prompts to make choices and navigate the game
+
+
+Contributions:
+Contributions to this project are welcome. Please follow the standard procedure:
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Submit a pull request with a comprehensive description of changes.
